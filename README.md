@@ -17,6 +17,8 @@ This analysis uses **Python** and **SQL** for data cleaning, exploration and vis
 - **`data_cleaning.ipynb`**: Jupyter notebook for data cleaning and preprocessing.
 - **`import_csv.py`**: Python script for importing CSV data into MySQL Workbench.
 - **`no_show_records.csv`**: Original dataset with raw data.
+- **sql_files**: Stores all the .sql files
+- **healthcare noshow.pbix**: Power BI dashboard that analyzes patient no-show trends; identify patterns and potential causes.
 
 ## **Tools and Technologies Used**
 
@@ -25,3 +27,4 @@ This analysis uses **Python** and **SQL** for data cleaning, exploration and vis
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib/Seaborn**: For data visualization.
 - **VS Code/Jupyter Notebook**: For interactive data analysis.
+- **Power BI**: For interactive dashboard design
