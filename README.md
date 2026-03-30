@@ -10,6 +10,12 @@ This analysis uses **Python** and **SQL** for data cleaning, exploration and vis
 - Performing detailed analysis using statistical methods and visualizations.
 - Identifying patterns and insights to help healthcare providers reduce patient no-shows.
 - Performing SQL queries to analyze patient appointments, no-show rates and aggregated data using various SQL techniques, functions.
+
+## **Power BI Dashboard**
+
+This project also includes a Power BI dashboard showing appointment volume, no-show rate, waiting time, and demographic trends.
+
+![Healthcare No-Show Dashboard](./healthcare_noshow_dashboard.jpg)
   
 ## **Files Included**
 
